@@ -4,7 +4,9 @@ The converter takes XML attributes into consideration.
 ## Installation
 ```
 npm install *our_package*
+
 or
+
 use the function directly in your code
 ```
 ## Usage
